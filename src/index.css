@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(220, 235, 245);
+}
+.container{
+    background-color: rgb(220, 235, 245);
+}
+.footer{
+    text-align: center;
+    color:blue;
+    font-size:50px;
+    margin-top: 450px;
+
+}
